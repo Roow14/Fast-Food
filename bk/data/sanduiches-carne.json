@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Big King",
+        "img": "big-king.png",
+        "ingredients": "Dois hambúrgueres, queijo derretido, alface, cebola, picles e molho especial em pão com gergelim.",
+        "price": 21.50
+    },
+    {
+        "name": "Whopper",
+        "img": "whopper.png",
+        "ingredients": "Carne grelhada no fogo, alface, tomate, maionese, ketchup, picles, cebola e pão com gergelim.",
+        "price": 24.00
+    },
+    { 
+        "name": "Stacker Duplo Bacon",
+        "img": "Stacker-Duplo-Bacon.png",
+        "ingredients": "Dois hambúrgueres de carne grelhada, queijo, bacon e molho Stacker.",
+        "price": 24.00
+    },
+    {
+        "name": "Rodeio Duplo",
+        "img": "rodeio-duplo.png",
+        "ingredients": "Dois hambúrgueres, queijo, onion rings e molho barbecue.",
+        "price": 21.50
+    },
+    {
+        "name": "BK Cheddar",
+        "img": "BK-Cheddar.png",
+        "ingredients": "Carne grelhada no fogo, molho cheddar cremoso e pão preto com gergelim.",
+        "price": 24.00
+    },
+    { 
+        "name": "Cheddar Duplo",
+        "img": "cheddar-duplo.png",
+        "ingredients": "Dois hambúrgueres de carne grelhada, molho cheddar cremoso e pão preto com gergelim.",
+        "price": 24.00
+    }
+]

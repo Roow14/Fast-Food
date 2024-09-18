@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Casquinha Baunilha",
+        "img": "Casquinha-Baunilha.png",
+        "ingredients": "Sorvete de baunilha, casquinha crocante.",
+        "price": 5.00
+    },
+    {
+        "name": "Casquinha Mista",
+        "img": "Casquinha-Mista.png",
+        "ingredients": "Sorvete de baunilha e chocolate, casquinha crocante.",
+        "price": 6.00
+    },
+    {
+        "name": "Casquinha de Doce de Leite",
+        "img": "Casquinha-Doce-de-Leite.png",
+        "ingredients": "Sorvete de doce de leite, casquinha crocante.",
+        "price": 6.50
+    },
+    {
+        "name": "BK Mix com Nutella",
+        "img": "BK-Mix-Nutella.png",
+        "ingredients": "Sorvete de baunilha, cobertura de Nutella, pedaços de avelã.",
+        "price": 5.00
+    },
+    {
+        "name": "BK Mix de Ovomaltine",
+        "img": "BK-Mix-Ovomaltine.png",
+        "ingredients": "Sorvete de baunilha, cobertura de Ovomaltine.",
+        "price": 6.00
+    },
+    {
+        "name": "Balde de Ovomaltine",
+        "img": "Balde-Ovomaltine.png",
+        "ingredients": "Sorvete de baunilha com Ovomaltine, balde grande.",
+        "price": 6.50
+    }
+]

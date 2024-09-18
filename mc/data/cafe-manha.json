@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Pão de Queijo",
+        "img": "pao-de-queijo.jpg",
+        "ingredients": "Queijo, polvilho, ovos, manteiga.",
+        "price": 8.00
+    },
+    {
+        "name": "Mini Pão de Queijo",
+        "img": "mini-pao-de-queijo.jpg",
+        "ingredients": "Queijo, polvilho, ovos, manteiga.",
+        "price": 6.00
+    },
+    {
+        "name": "Queijo Quente com Bacon",
+        "img": "pao.jpg",
+        "ingredients": "Pão, queijo, bacon.",
+        "price": 12.00
+    }
+]

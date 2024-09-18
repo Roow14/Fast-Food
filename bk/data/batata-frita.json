@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Batata Frita Grande",
+        "img": "Batata-Frita.png",
+        "ingredients": "Batata frita, sal.",
+        "price": 15.90
+    },
+    {
+        "name": "Batata Frita Média",
+        "img": "Batata-Frita.png",
+        "ingredients": "Batata frita, sal.",
+        "price": 12.90
+    },
+    {
+        "name": "Batata Frita Pequena",
+        "img": "Batata-Frita.png",
+        "ingredients": "Batata frita, sal.",
+        "price": 9.90
+    },
+    {
+        "name": "Balde de Batata",
+        "img": "Balde_de_Batata.png",
+        "ingredients": "Batata frita, sal.",
+        "price": 18.90
+    },
+    {
+        "name": "Onion Rings",
+        "img": "Onion-Rings.png",
+        "ingredients": "Anéis de cebola empanados e fritos.",
+        "price": 11.90
+    },
+    {
+        "name": "BK Chicken",
+        "img": "BK-Chicken.png",
+        "ingredients": "Peito de frango empanado, maionese, alface.",
+        "price": 10.90
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Suco Natural Laranja",
+        "img": "Natural_laranja.png",
+        "ingredients": "Suco de laranja natural, sem adição de açúcar.",
+        "price": 10.00
+    },
+    {
+        "name": "Suco Natural Uva",
+        "img": "Natural_Uva.png",
+        "ingredients": "Suco de uva natural, sem adição de açúcar.",
+        "price": 8.00
+    },
+    {
+        "name": "Suco Natural Maracujá",
+        "img": "natural-maracuja.png",
+        "ingredients": "Suco de maracujá natural, sem adição de açúcar.",
+        "price": 6.00
+    },
+    {
+        "name": "Pepsi",
+        "img": "Pepsi.png",
+        "ingredients": "Água gaseificada, açúcar, corante caramelo, ácido fosfórico, cafeína, aromatizantes.",
+        "price": 10.00
+    },
+    {
+        "name": "Guaraná Antárctica",
+        "img": "Guarana.png",
+        "ingredients": "Água gaseificada, açúcar, extrato de guaraná, aromatizantes naturais.",
+        "price": 8.00
+    },
+    {
+        "name": "Água Copo",
+        "img": "agua-copo.png",
+        "ingredients": "Água mineral.",
+        "price": 6.00
+    }
+]

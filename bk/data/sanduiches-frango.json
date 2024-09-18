@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Chicken Jr",
+        "img": "Chicken-Jr.png",
+        "ingredients": "Peito de frango empanado, alface e maionese.",
+        "price": 10.90
+    },
+    {
+        "name": "Chicken Duplo",
+        "img": "chicken-duplo.png",
+        "ingredients": "Dois hambúrgueres de frango empanado, alface e maionese.",
+        "price": 13.90
+    },
+    {
+        "name": "BK Chicken Crispy",
+        "img": "BK-Chicken-Crispy.png",
+        "ingredients": "Frango empanado crocante, alface, tomate, maionese e queijo.",
+        "price": 18.90
+    },
+    {
+        "name": "CBK",
+        "img": "CBK.png",
+        "ingredients": "Frango empanado crocante, alface, maionese e queijo.",
+        "price": 14.90
+    },
+    {
+        "name": "Whopper Vegetariano",
+        "img": "whopper-vegetariano.png",
+        "ingredients": "Hambúrguer vegetal grelhado, alface, tomate, maionese e ketchup.",
+        "price": 29.90
+    }
+]

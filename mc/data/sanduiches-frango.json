@@ -1,0 +1,39 @@
+[
+    {
+        "name": "McChicken Bacon",
+        "img": "McChicken-Bacon.jpg",
+        "ingredients": "Peito de frango empanado, alface, queijo, bacon e maionese.",
+        "price": 23.90
+    },
+    {
+        "name": "McCrispy Chicken Cajun",
+        "img": "McCrispy-Chicken-Cajun.png",
+        "ingredients": "Frango empanado crocante, alface, molho cajun picante e queijo.",
+        "price": 15.90
+    },
+    {
+        "name": "McCrispy Chicken Deluxe",
+        "img": "McCrispy-Chicken-Deluxe.jpg",
+        "ingredients": "Frango empanado crocante, alface, tomate, molho e queijo.",
+        "price": 15.90
+    },
+    {
+        "name": "McCrispy Chicken Elite",
+        "img": "McCrispy-Chicken-elite.png",
+        "ingredients": "Frango empanado crocante, alface, molho especial, queijo e picles.",
+        "price": 23.90
+    },
+    {
+        "name": "McCrispy Chicken Legend",
+        "img": "McCrispy-Chicken-Legend.jpg",
+        "ingredients": "Frango empanado crocante, alface, molho especial e queijo.",
+        "price": 15.90
+    },
+    {
+        "name": "McCrispy Chicken Melt & Bacon",
+        "img": "McCrispy-Chicken-Melt-&-Bacon.jpg",
+        "ingredients": "Frango empanado crocante, bacon, queijo e molho cremoso.",
+        "price": 15.90
+    }
+    
+]

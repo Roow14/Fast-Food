@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Kids Burger",
+        "img": "kids-burger.png",
+        "ingredients": "Pão de hambúrguer, carne bovina, queijo.",
+        "price": 8.00
+    },
+    {
+        "name": "Combo Kids Burger",
+        "img": "combo-kids-burger.png",
+        "ingredients": "Pão de hambúrguer, carne bovina, queijo, batata frita pequena e bebida.",
+        "price": 16.00
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Café Premium 100ml",
+        "img": "cafe-g.jpg",
+        "ingredients": "Café moído.",
+        "price": 7.00
+    },
+    {
+        "name": "Café Premium 200ml",
+        "img": "cafe-g.jpg",
+        "ingredients": "Café moído.",
+        "price": 9.00
+    },
+    {
+        "name": "Café Premium 300ml",
+        "img": "cafe-g.jpg",
+        "ingredients": "Café moído.",
+        "price": 11.00
+    }
+]

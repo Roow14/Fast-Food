@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Big Mac",
+        "img": "big-mac.png",
+        "ingredients": "Carne bovina, queijo, alface, molho especial, cebola e picles.",
+        "price": 21.50
+    },
+    {
+        "name": "Big Tasty",
+        "img": "Big-Tasty.png",
+        "ingredients": "Carne bovina, queijo, alface, tomate, cebola e molho.",
+        "price": 24.00
+    },
+    { 
+           "name": "Duplo Cheddar McMelt",
+        "img": "Duplo-Cheddar-McMelt.png",
+        "ingredients": "Carne bovina, queijo, alface, tomate, cebola e molho.",
+        "price": 24.00
+        },
+        {
+            "name": "Duplo cheddar",
+            "img": "duplo-cheddar.png",
+            "ingredients": "Carne bovina, queijo, alface, molho especial, cebola e picles.",
+            "price": 21.50
+        },
+        {
+            "name": "Duplo-quarterão",
+            "img": "duplo-quarteirao.png",
+            "ingredients": "Carne bovina, queijo, alface, tomate, cebola e molho.",
+            "price": 24.00
+        },
+        { 
+               "name": "McNifico Bacon",
+            "img": "McNifico-Bacon.png",
+            "ingredients": "Carne bovina, queijo, alface, tomate, cebola e molho.",
+            "price": 24.00
+            }
+]

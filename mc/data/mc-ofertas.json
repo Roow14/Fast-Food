@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Combo com Batata Grande",
+        "img": "combo1.jpg",
+        "ingredients": " Big Mac acompanhado de batatas fritas e bebida ",
+        "price": 35.00
+    },
+    {
+        "name": "Combo com Batata Média",
+        "img": "combo1.jpg",
+        "ingredients": " Big Mac acompanhado de batatas fritas e bebida ",
+        "price": 33.00
+    },
+    {
+        "name": "Combo com Batata Pequena",
+        "img": "combo1.jpg",
+        "ingredients": " Big Mac acompanhado de batatas fritas e bebida ",
+        "price": 31.00
+    }
+]

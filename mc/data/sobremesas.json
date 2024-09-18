@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Casquinha Baunilha",
+        "img": "sorvete-b.jpg",
+        "ingredients": "Sorvete de baunilha, casquinha.",
+        "price": 5.00
+    },
+    {
+        "name": "Casquinha Chocolate",
+        "img": "sorvete-c.jpg",
+        "ingredients": "Sorvete de chocolate, casquinha.",
+        "price": 6.00
+    },
+    {
+        "name": "Casquinha Mista",
+        "img": "sorvete-m.jpg",
+        "ingredients": "Sorvete de baunilha e chocolate, casquinha.",
+        "price": 6.50
+    }
+]

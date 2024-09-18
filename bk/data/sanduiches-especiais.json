@@ -1,0 +1,38 @@
+[
+    {
+        "name": "King Costela",
+        "img": "King-Costela.png",
+        "ingredients": "Pão com gergelim, carne de costela suína, molho sabor barbecue, cebola crispy e queijo cheddar.",
+        "price": 35.00
+    },
+    {
+        "name": "Whopper Bacon",
+        "img": "whopper-bacon-catupiry.png",
+        "ingredients": "Pão com gergelim, carne bovina grelhada, bacon crocante, queijo, maionese, alface, tomate e cebola.",
+        "price": 33.00
+    },
+    {
+        "name": "Whopper Rodeio",
+        "img": "Whopper-Rodeio.png",
+        "ingredients": "Pão com gergelim, carne bovina grelhada, molho barbecue, cebola crispy e queijo cheddar.",
+        "price": 31.00
+    },
+    {
+        "name": "Whopper Barbecue Bacon",
+        "img": "whopper-bbq.png",
+        "ingredients": "Pão com gergelim, carne bovina grelhada, bacon crocante, molho barbecue, queijo cheddar, alface e cebola.",
+        "price": 35.00
+    },
+    {
+        "name": "Whopper Duplo",
+        "img": "whopper-duplo.png",
+        "ingredients": "Pão com gergelim, duas carnes bovinas grelhadas, queijo, maionese, alface, tomate e cebola.",
+        "price": 33.00
+    },
+    {
+        "name": "Whopper Furioso",
+        "img": "Whopper-Furioso.png",
+        "ingredients": "Pão com gergelim, carne bovina grelhada, molho picante, queijo cheddar, bacon e alface.",
+        "price": 31.00
+    }
+]

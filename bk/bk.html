@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cardápio McDonald's</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="menu-lateral">
+            <h2>Cardápio</h2>
+            <ul>
+                <li onclick="loadCategory('sanduiches-especiais')">Sanduíche Especiais</li>
+                <li onclick="loadCategory('sanduiches-carne')">Sanduíche de Carne</li>
+                <li onclick="loadCategory('sanduiches-frango')">Sanduíche de Frango</li>
+                <li onclick="loadCategory('kids')">Kids</li>
+                <li onclick="loadCategory('batata-frita')">Acompanhamentos</li>
+                <li onclick="loadCategory('sobremesas')">Sobremesas</li>
+                <li onclick="loadCategory('bebidas-geladas')">Bebidas </li>
+               
+            </ul>
+        </aside>
+
+        <main class="menu-principal">
+            <h1>Bem-vindo ao Burger King</h1>
+            <img src="img/principal.JPG" alt="Bem-vindo ao Burger King" class="welcome-image">
+            
+            <div id="menu-items" class="menu-items">
+                <!-- Os itens do menu aparecerão aqui -->
+            </div>
+        </main>
+
+        <div class="total-container">
+            <p>Total: R$ <span id="total-price">0.00</span></p>
+            <button id="confirm-order">Confirmar Pedido</button>
+        </div>
+    </div>
+
+    <div id="order-summary-modal" class="modal">
+        <div class="modal-content">
+            <span id="close-modal" class="close">&times;</span>
+            <h2>Resumo do Pedido</h2>
+            <div id="order-summary"></div>
+            <p>Total: R$ <span id="order-total"></span></p>
+            <button id="confirm-final-order">Confirmar Pedido</button>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

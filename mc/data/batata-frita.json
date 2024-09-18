@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Batata Frita Grande",
+        "img": "batata-frita-g.jpg",
+        "ingredients": "Batata, sal.",
+        "price": 15.00
+    },
+    {
+        "name": "Batata Frita Média",
+        "img": "batata-frita-m.jpg",
+        "ingredients": "Batata, sal.",
+        "price": 12.00
+    },
+    {
+        "name": "Batata Frita Pequena",
+        "img": "batata-frita-p.jpg",
+        "ingredients": "Batata, sal.",
+        "price": 10.00
+    }
+]

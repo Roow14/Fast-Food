@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Coca-Cola 700ml",
+        "img": "coca-g.jpg",
+        "ingredients": "Água gaseificada, açúcar, corante caramelo, ácido fosfórico, cafeína, aromatizantes.",
+        "price": 10.00
+    },
+    {
+        "name": "Coca-Cola 500ml",
+        "img": "coca-g.jpg",
+        "ingredients": "Água gaseificada, açúcar, corante caramelo, ácido fosfórico, cafeína, aromatizantes.",
+        "price": 8.00
+    },
+    {
+        "name": "Coca-Cola 300ml",
+        "img": "coca-g.jpg",
+        "ingredients": "Água gaseificada, açúcar, corante caramelo, ácido fosfórico, cafeína, aromatizantes.",
+        "price": 6.00
+    },
+    {
+        "name": "Fanta Laranja 700ml",
+        "img": "fanta-g.jpg",
+        "ingredients": "Água gaseificada, açúcar, suco de laranja, corante, ácido cítrico, aromatizantes.",
+        "price": 10.00
+    },
+    {
+        "name": "Fanta Laranja 500ml",
+        "img": "fanta-g.jpg",
+        "ingredients": "Água gaseificada, açúcar, suco de laranja, corante, ácido cítrico, aromatizantes.",
+        "price": 8.00
+    },
+    {
+        "name": "Fanta Laranja 300ml",
+        "img": "fanta-g.jpg",
+        "ingredients": "Água gaseificada, açúcar, suco de laranja, corante, ácido cítrico, aromatizantes.",
+        "price": 6.00
+    }
+]

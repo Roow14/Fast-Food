@@ -1,0 +1,240 @@
+/* Reset básico para garantir consistência entre navegadores */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilização do corpo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 165, 0);
+}
+
+/* Contêiner principal com layout flexível */
+.container {
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+}
+
+/* Menu lateral */
+.menu-lateral {
+    width: 20%;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilização do título do menu lateral */
+.menu-lateral h2 {
+    margin-bottom: 20px;
+}
+
+/* Estilização da lista no menu lateral */
+.menu-lateral ul {
+    list-style-type: none;
+}
+
+.menu-lateral li {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.menu-lateral li:hover {
+    background-color: #ddd;
+}
+
+/* Menu principal */
+.menu-principal {
+    flex-grow: 1;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 10px;
+    height: auto;
+    overflow-y: auto;
+}
+
+/* Título do menu principal */
+.menu-principal h1 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.welcome-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 20px;
+}
+
+/* Layout dos itens do menu principal usando grid */
+.menu-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+/* Estilização dos itens do menu */
+.menu-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s, transform 0.3s;
+}
+
+.menu-item img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+
+.menu-item img:hover {
+    transform: scale(1.05);
+}
+
+.menu-item h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.menu-item p {
+    font-size: 0.9em;
+    margin: 5px 0;
+    text-align: center;
+}
+
+.menu-item strong {
+    font-size: 1.1em;
+    color: #e74c3c;
+    margin: 5px 0;
+}
+
+.quantity {
+    margin-top: 10px;
+}
+
+.quantity label {
+    font-size: 0.9em;
+    margin-right: 5px;
+}
+
+.quantity input {
+    width: 50px;
+    padding: 5px;
+}
+
+.total-container {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.total-container p {
+    font-size: 1.2em;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.total-container button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.total-container button:hover {
+    background-color: #c0392b;
+}
+
+/* Modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 8px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Responsividade para telas menores */
+@media (max-width: 1024px) {
+    .menu-items {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .menu-items {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .menu-lateral {
+        width: 100%;
+        height: auto;
+        position: static;
+        box-shadow: none;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .menu-principal {
+        margin: 0;
+        height: auto;
+    }
+}
