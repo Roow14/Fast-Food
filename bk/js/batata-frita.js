@@ -8,13 +8,13 @@ window.menuOptions = {
         },
         { 
             name: 'Batata Frita Média', 
-            img: 'img/batata-frita-media.jpg', 
+            img: 'img/batata-frita-g.jpg', 
             ingredients: 'Batatas fritas com sal', 
             price: 10.90 
         },
         { 
             name: 'Batata Frita Grande', 
-            img: 'img/batata-frita-grande.jpg', 
+            img: 'img/batata-frita-g.jpg', 
             ingredients: 'Batatas fritas com sal', 
             price: 12.90 
         }
