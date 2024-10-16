@@ -2,7 +2,7 @@ window.menuOptions = {
     'batata-frita': [
         { 
             name: 'Batata Frita Pequena', 
-            img: 'img/batata-frita-pequena.jpg', 
+            img: 'img/batata-frita-g.jpg', 
             ingredients: 'Batatas fritas com sal', 
             price: 7.90 
         },
